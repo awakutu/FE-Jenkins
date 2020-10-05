@@ -5,7 +5,7 @@ package kelompokJenkins;
 
 public class App {
     public String getGreeting() {
-        return "Hello world.";
+        return "halooo";
     }
 
     public static void main(String[] args) {
